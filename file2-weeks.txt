@@ -1,0 +1,7 @@
+mondar
+tuesday
+wednesday
+thursday
+friday
+saturday
+sunday
